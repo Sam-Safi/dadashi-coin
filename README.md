@@ -2,7 +2,6 @@
 
 Building a cryptocurrency price tracker in react. Using the coinGecko API which a free API for retrieving realtime and historical data when it comes to cryptocurrencies.
 
-Try the app [here](coin-box.herokuapp.com/)
 
 #### Tech Stack
 
