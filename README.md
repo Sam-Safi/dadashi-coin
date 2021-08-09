@@ -8,7 +8,7 @@ Try the app [here](coin-box.herokuapp.com/)
 
 - [React](https://reactjs.org/)
 - [coinGecko](https://www.coingecko.com/en/api)
-- [Chart]https://www.chartjs.org/)
+- [Chart](https://www.chartjs.org/)
 - [React-Bootstrap](https://react-bootstrap.github.io/)
 
 #### To Run Locally
